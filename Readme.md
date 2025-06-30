@@ -47,6 +47,10 @@ Open `index.html` in your browser. Upload a chest X-ray image and click "Send" t
 - `my_pneumonia_classifier_sequential_model.h5` - Trained model (not included)
 - `Readme.md` - Project documentation
 
+## Dataset
+```
+https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray
+```
 
 ## License
 
